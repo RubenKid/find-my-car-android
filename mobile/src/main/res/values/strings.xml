@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Find my car</string>
+    <string name="title_activity_main">Find My Car</string>
+    <string name="bottom_bar_button">Parked!</string>
+</resources>
